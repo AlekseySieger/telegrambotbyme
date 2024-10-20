@@ -14,7 +14,7 @@ import java.net.URL;
 
 public class MyBot extends TelegramLongPollingBot {
 
-    private static final String OPENWEATHER_API_KEY = "63327ea177b1dda8177a1f1dfbdd6575";
+    private static final String OPENWEATHER_API_KEY = "tara-tara";
 
     @Override
     public String getBotUsername() {
@@ -23,7 +23,7 @@ public class MyBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "7859277873:AAHaYvo9RyGYWH3rAKwPip5McXUfHUvhHZ8";
+        return "88005553535:tara-ta-tara";
     }
 
     @Override
